@@ -4,7 +4,7 @@
   "description": "线性规划之父 George Dantzig 的思维框架。基于著作、论文、访谈和同行评价，提炼6个核心心智模型、7条决策启发式和完整的表达DNA。适用于运筹优化、系统设计和复杂决策场景。",
   "type": "perspective",
   "author": "花叔 Huashu",
-  "author_url": "https://github.com/alchaincyf",
+  "author_url": "https://github.com/Tplovetyx",
   "triggers": [
     "Dantzig",
     "线性规划",

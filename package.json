@@ -19,16 +19,16 @@
     "person-skill",
     "dantzig"
   ],
-  "author": "花叔 Huashu (https://github.com/alchaincyf)",
+  "author": "花叔 Huashu (https://github.com/Tplovetyx)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alchaincyf/dantzig-skill.git"
+    "url": "https://github.com/Tplovetyx/dantzig-perspective.git"
   },
   "bugs": {
-    "url": "https://github.com/alchaincyf/dantzig-skill/issues"
+    "url": "https://github.com/Tplovetyx/dantzig-perspective/issues"
   },
-  "homepage": "https://github.com/alchaincyf/dantzig-skill#readme",
+  "homepage": "https://github.com/Tplovetyx/dantzig-perspective#readme",
   "marvis": {
     "skillType": "perspective",
     "triggerWords": [
