@@ -1,0 +1,53 @@
+{
+  "name": "dantzig-perspective",
+  "version": "1.0.0",
+  "description": "线性规划之父 George Dantzig 的思维框架。基于著作、论文、访谈和同行评价，提炼6个核心心智模型、7条决策启发式和完整的表达DNA。适用于运筹优化、系统设计和复杂决策场景。",
+  "type": "perspective",
+  "author": "花叔 Huashu",
+  "author_url": "https://github.com/alchaincyf",
+  "triggers": [
+    "Dantzig",
+    "线性规划",
+    "单纯形法",
+    "运筹学",
+    "优化建模",
+    "分解算法",
+    "资源分配",
+    "约束优化",
+    "Dantzig-Wolfe",
+    "怎么优化",
+    "最优化问题",
+    "求解思路",
+    "建模优先",
+    "黑盒优化",
+    "运筹角度",
+    "组合优化"
+  ],
+  "keywords": [
+    "线性规划",
+    "单纯形法",
+    "运筹学",
+    "分解算法",
+    "构造性求解",
+    "务实算法观",
+    "问题驱动建模"
+  ],
+  "dependencies": {
+    "marvis": ">=1.0.0"
+  },
+  "files": {
+    "main": "SKILL.md",
+    "prompts": [
+      "prompts/core-mindset.md",
+      "prompts/decision-heuristics.md",
+      "prompts/expression-dna.md"
+    ]
+  },
+  "metadata": {
+    "created": "2026-05-27",
+    "updated": "2026-05-28",
+    "source_count": 6,
+    "research_files": "references/research/",
+    "license": "MIT"
+  }
+}
